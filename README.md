@@ -1,7 +1,7 @@
-L.A.U.R.A - Asistente Virtual Potenciado por Inteligencia Artificial
-L.A.U.R.A (Linguistically Advanced and User-friendly Robotic Assistant) es un asistente virtual desarrollado utilizando tecnologías de inteligencia artificial. Puede realizar tareas como transcripción de voz, interacción con el modelo GPT-3.5 Turbo de OpenAI para respuestas conversacionales y generar mensajes de voz utilizando la API de Eleven Labs.
-
-Requisitos
+##<h1>L.A.U.R.A - Asistente Virtual Potenciado por Inteligencia Artificial</h1><br>
+<p>L.A.U.R.A (Linguistically Advanced and User-friendly Robotic Assistant) es un asistente virtual desarrollado utilizando tecnologías de inteligencia artificial. Puede realizar tareas como transcripción de voz, interacción con el modelo GPT-3.5 Turbo de OpenAI para respuestas conversacionales y generar mensajes de voz utilizando la API de Eleven Labs.<p>
+<br>
+##<h1>Requisitos</h1>
 Asegúrate de tener instaladas las siguientes bibliotecas y módulos de Python:
 
 aiohttp==3.8.4
